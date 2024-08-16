@@ -1,5 +1,5 @@
 To Clone
-git clone https://github.com/arsalanash/Arsalan_Estate.git
+git clone https://github.com/arsalanash/MERN_ESTATE.git
 
 then cd Arsalan_Estate
 
